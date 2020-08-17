@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/williamsffc/README-Generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
-  }
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "markdown": "^0.5.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {}
 }
