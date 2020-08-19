@@ -1,12 +1,12 @@
 
-# 🏆 sdljsdbnvljkznvl; 🏆
+# 🏆 Good ReadMe Generator 🏆
 
 ##### **Badge:**
-![License: ](https://img.shields.io/badge/License-APACHE2.0-green)
+![License: ](https://img.shields.io/badge/License-MIT-green)
 
 
 ## **Description:**
-* jNDLkjvn;zc
+* It's an easy way to answer questions that your audience will likely have regarding how to install and use your project and also how to collaborate with you.
 
 ## **Table of Contents:**
 1. [Installation](#installation)
@@ -16,22 +16,22 @@
 5. [Questions](#questions)
 
 ## **Installation:**
-* kJ:SADSDNljksdnv
+* In the top level directory of the project. This is where someone who is new to your project will start out. Code hosting services such as GitHub, Bitbucket, and GitLab will also look for your README and display it along with the list of files and directories in your project.
 
 ## **Usage:**
-* lSDJBlvkjsncv
+* Definitely before you show a project to other people or make it public. You might want to get into the habit of making it the first file you create in a new project.
 
 ## **Contribution:**
-* LKJDBljnzxc
+* Anyone who is working on a programming project, especially if you want others to use it or contribute.
 
 ## **Test:**
-* lAJBfjnzxcv;
+* It's an easy way to answer questions that your audience will likely have regarding how to install and use your project and also how to collaborate with you.
 
 ### **Questions:**
-* lKSJDBlvjz@gmail.com
+* user_name@gmail.com
 
 ### **Link:**
-* [GitHub] - https://github.com/s;jdsdnv;
+* [GitHub] - https://github.com/user_name
 
 -------------
 © Copyright - 2020
