@@ -14,6 +14,8 @@
 3. [Contribution](#contribution)
 4. [Test](#test)
 5. [Questions](#questions)
+6. [Link](#link)
+7. [Screenshots](#screenshots)
 
 ## **Installation:**
 * In the top level directory of the project. This is where someone who is new to your project will start out. Code hosting services such as GitHub, Bitbucket, and GitLab will also look for your README and display it along with the list of files and directories in your project.
@@ -27,11 +29,15 @@
 ## **Test:**
 * It's an easy way to answer questions that your audience will likely have regarding how to install and use your project and also how to collaborate with you.
 
-### **Questions:**
+## **Questions:**
 * williams@github.com
 
-### **Link:**
+## **Link:**
 * [GitHub] - https://github.com/williamsffc
+
+## **Screenshots:**
+<img src="assets/Capture1.JPG">
+<img src="assets/Capture2.JPG">
 
 -------------
 © Copyright - 2020
